@@ -1,0 +1,12 @@
+p{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.class3, .class5, .class8 {
+    background-color: blue;
+}
+.class2, .class7{
+    opacity: 0.5;
+}
